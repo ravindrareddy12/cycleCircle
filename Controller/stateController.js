@@ -1,4 +1,6 @@
 const State = require('../models/stateSchema')
+
+
 module.exports.states = async (req, res) => {
     try{
       const state = await State.create(req.body);
