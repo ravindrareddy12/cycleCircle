@@ -10,8 +10,8 @@ router.post('/products',productController.Product);
 router.get('/products',productController.products);
 
 router.post('/warehouses',warehouseController.Warehouse);
-router.get('/warehouses/:warehouseId',warehouseController.WarehousesById);
 router.get('/warehouses',warehouseController.allWarehouses);
+router.get('/warehouses/:warehouseId',warehouseController.WarehousesById);
 
 
 router.post('/stocks',stockController.stock);
