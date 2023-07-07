@@ -36,5 +36,7 @@
   # Postman Tetsed image warehousesById        ![Screenshot 2023-07-07 201802](https://github.com/ravindrareddy12/cycleCircle/assets/60658927/3edefbbc-a9c4-4d57-b33c-aef8d3fd574a)
 
           POST /orders: Process an order.
+# Postman Tetsed image for creating orders   ![Screenshot 2023-07-07 203515](https://github.com/ravindrareddy12/cycleCircle/assets/60658927/e0888b00-4453-4274-a468-15e6f3dfb9e7)
+
           Refer to the source code or inline comments for detailed request and response structures for each endpoint.
             
