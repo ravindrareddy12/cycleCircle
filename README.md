@@ -1,7 +1,7 @@
 # cycleCircle
 # Clone the repository:
   git clone https://github.com/ravindrareddy12/cycleCircle
-  cd cycleCircle
+ # cd cycleCircle
 # npm install
 # Run the application:
      npm run dev
